@@ -1,0 +1,16 @@
+Support cards should not be something a hero can't do.
+    - Supplies dropped
+    - Ranged strikes
+    - Travel
+    - buffs
+    - communication
+
+Field Drop: $-(B)(B) Can only be used in Base. Gain 3 Potions of Healing.
+
+Flame Strike: $-(a)(a)(a)(a) Deal 50 damage to all characters in a 4x4 space area within 6 spaces. Killed characters do not grant experience.
+
+Teleport: $-(a)(a)(a)(a) Move to any friendly space.
+
+Reality Shift: $- Reaction. Teleport to any space within 4 spaces.
+
+Astral Sickness: $- Choose a character within 4 spaces. The target's speed is reduced by half until the end of its next turn.

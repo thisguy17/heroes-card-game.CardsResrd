@@ -1,0 +1,27 @@
+Items should increase stats or add abilities (active and passive)
+
+2 weapons equipped? limit items?
+
+rd Examples:
+
+Sword of Kas (Legendary Env/Neut): $-(a) to equip. Melee attacks deal 40 extra physical damage. The damage dealt by the Sword of Kas cannot be prevented or reduced.
+
+Purple Wurm Poison (Rare/Epic Env/Neut): $-(a) On your next melee or ranged attack Afflict: 10 magic damage at the start of each turn until cleansed.
+
+Essence of Ether (Rare Rogue): $-(a) On your next melee attack Afflict: Stun until the end of next turn.
+
+Disruption Poison (Uncommon Rogue): $-(a) On your next melee attack Cleanse all Bestowed effects.
+
+Potion of Minor Restoration (Common): $-(a) Cleanse one affliction on self or melee friendly character.
+
+Potion of Healing (Common): $-(a) Bestow: Restore 10 health at the start of the next 3 turns. [30]
+
+Potion of Greater Healing (Uncommon): Bestow: Restore 15 health at the start of the next 5 turns. [75]
+
+Potion of Superior Healing (Epic): Bestow: Restore 25 health at the start of the next 6 turns. [150]
+
+Frostbrand (Epic Fighter): $-(a) to equip. Melee attacks deal 25 extra magic damage and reduce speed by 10 until the end of the target's next turn.
+
+Fists of Flame (Rare Rogue): $-(a) to equip. Melee attacks deal 15 extra magic damage to all targets in a 2 space line behind the target.
+
+RDs for creations

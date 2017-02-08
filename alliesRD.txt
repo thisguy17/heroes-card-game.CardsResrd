@@ -1,0 +1,28 @@
+Allies function as minions.
+
+Can be grouped
+
+Allies can only take one action per turn. Their speed is mainly for movement.
+
+Fodder: Provide minimal exp to enemies, create distractions, early game assistance
+Swordsmen: (5x?) 35 health, 15 physical melee attack, 20 speed
+Archers: (5x?) 15 health, 15 physical ranged 4 attack, 20 speed
+Riders: (3x?) 40 health, 20 physical melee attack, 30 speed
+Angry Villagers: (10x?) 10 health, 5 physical melee attack, 20 speed
+Local Militia: (10x?) 15 health, 10 physical melee attack, 20 speed
+Guild Mages: (3x?) 10 health, 30 magic ranged 4 attack, 20 speed
+
+Powerful: Provide assistance in combat, flavorful, provide significant exp, create distractions, hero or objective killer
+Archmage: Passive - adjacent friendly characters draw each turn. 100 health, 50 magic ranged 4 attack, 40 speed
+Retainer: Passive - adjacent friendly characters gain resistance to physical damage from melee attacks. 300 health, 40 physical melee attack, 40 speed
+Assassin: 75 health, 100 physical melee attack, 60 speed
+Healer: Passive - friendly characters within 2 heal each turn. 150 health, 25 magic ranged 4 attack, 40 speed
+General: Passive - adjacent friendly characters deal extra damage. 200 health, 40 physical melee attack, 40 speed
+Living Legend: Passive - enemy allies attack this character first. 500 health, 60 physical melee attack, 60 speed
+
+Utility: Special abilities, counter-play, situational, flavorful
+Portal Specialist: Passive - Allies within 4 are protected from environment effects. 50 health, no attack, 20 speed
+Point Runner: Passive - Allies within 2 gain 2 movement on their turns. 25 health, 10 physical melee attack, 20 speed
+Explorer: Passive - 
+Merchant: Passive - 
+Enchanter: Passive - Allies within 2 gain resistance to magical damage.
